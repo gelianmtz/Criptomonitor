@@ -1,2 +1,5 @@
 .vscode/
 target/
+
+config.properties
+credentials.h
